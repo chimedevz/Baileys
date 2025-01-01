@@ -5,14 +5,14 @@
   "keywords": [
     "whatsapp",
     "js-whatsapp",
-    "whatsapp-api",
+    "whatsapp-api"
   ],
   "homepage": "https://github.com/WhiskeySockets/Baileys",
   "repository": {
     "url": "git@github.com:WhiskeySockets/Baileys.git"
   },
   "license": "MIT",
-  "author": "Rlzyy",
+  "author": "ChimeDev",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
